@@ -4,9 +4,9 @@ import datetime
 import random
 import string
 
-referrer = "id account cua bạn"
-timesToLoop = 50
-retryTimes = 5
+referrer = "1f9464f6-39d8-46ff-99cc-8bd366b3b964"
+timesToLoop = 500000
+retryTimes = 5000
 
 
 def genString(stringLength):
